@@ -5,6 +5,8 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "quickquark.refmap.json",
   "mixins": [
+    "MixinAlexsCavesWebHelper",
+    "MixinCitadelWebHelper",
     "MixinContributorRewardHandler",
     "MixinThreadContributorListLoader"
   ],
